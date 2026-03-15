@@ -1,0 +1,1 @@
+# LevelUp Basketball Mechanics App\n\nRun with `npm install` and `npm run dev`. Deploy on Vercel, Netlify, or Cloudflare Pages.\n
